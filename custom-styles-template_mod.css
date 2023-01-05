@@ -43,6 +43,7 @@ a:active
 .ext-header
 {
     /* Styles for the header at the top of the page */
+    background-color: #FBB900!important;
 }
 
 .ext-header-logo
@@ -203,7 +204,7 @@ a:active
 .ext-footer
 {
     /* Styles for the footer at the bottom of the page */
-    background-color: #3D1A59!important;
+    background-color: #277C0F!important;
     /* height: 55px;
     padding-top: 15px; */
 }

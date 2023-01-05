@@ -1,1 +1,1 @@
-# company-branding
+# Contoso play Company Branding resources
